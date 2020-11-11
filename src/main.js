@@ -4,7 +4,7 @@ import router from '@/router/index';
 import store from '@/store/store';
 import '@/js/fontAwesomeIcon';
 import '@/js/bootstrap';
-// import VueAnalytics from 'vue-analytics';
+import '@/js/vueAnalytics';
 
 Vue.config.productionTip = false;
 
